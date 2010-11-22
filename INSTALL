@@ -1,0 +1,14 @@
+Installation:
+
+The libubiio needs cmake to be compiled.
+When you have installed cmake :
+
+$ mkdir build
+$ cd build
+$ cmake .. -DCMAKE_INSTALL_PREFIX=/usr/local
+$ make
+# make install
+
+Then the libubiio library should be installed in /usr/local/lib/
+
+

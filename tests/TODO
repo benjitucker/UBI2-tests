@@ -1,0 +1,7 @@
+tests:
+ volume name length: try to create a very volume with a very long name
+ read / write / change : unit tests
+ map / unmap / ismapped : unit tests again
+  try to write with a volume opened in readonly
+  try to write on a static volume
+
